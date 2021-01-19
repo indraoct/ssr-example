@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class About extends Component{
+class Products extends Component{
 
     componentDidMount(){
         //set active navbar for Products
@@ -26,4 +26,4 @@ class About extends Component{
     }
 }
 
-export default About;
+export default Products;
