@@ -9,6 +9,9 @@ class Home extends Component{
                 <h1>
                     Home
                 </h1>
+                <p className="home-text">
+                    Hi from class text-home
+                </p>
             </div>   
         );
     }
